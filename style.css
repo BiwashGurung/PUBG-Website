@@ -133,7 +133,7 @@
   
   body {
     background-color: var(--bg-dark-purple);
-    background-image: url("../images/body-bg.jpg");
+    background-image: url("");
     background-repeat: repeat;
     color: var(--text-gainsboro);
     font-family: var(--fontFamily-oxanium);
